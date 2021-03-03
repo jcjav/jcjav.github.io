@@ -12,7 +12,8 @@ typewriter.typeString('CREATIVE. ')
     .typeString('<a href="https://joannejavier.myportfolio.com/work" id="menu" class="bg">/ work / </a>')
     .typeString('<a href="#" id="menu" class="bg">about / </a>')
     .typeString('<a href="https://www.linkedin.com/in/joannejavier/" id="menu" class="bg">linkedin / </a>')
-    .typeString('<a href="#" id="menu" class="bg">codepen /</a>')
+    .typeString('<a href="#" id="menu" class="bg">codepen / </a>')
+    .typeString('<a href="mailto: joannecjavier@gmail.com" id="menu" class="bg">email /</a>')
     .pauseFor(2500);
 
 
