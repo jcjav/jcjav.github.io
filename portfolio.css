@@ -1,23 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+
+
 h1 {
-  font-family: arial bold, helvetica, sans-serif;
+  font-family: "Courier Prime", courier, monospace;
   font-style: bold;
   font-size: 150px;
-  line-height: 120px;
   margin-bottom: 3px;
-  margin-top: 20px;
+  margin-top: 5px;
   margin-left: 10px;
 }
 
 p {
-  font-family: arial bold, sans-serif;
+  font-family: "Courier Prime", courier, monospace;
   font-size: 50px;
   margin-left: 20px;
   margin-top: 3px;
 }
 
 a:link{
+  color: #dd571c;
   text-decoration: none;
-  color: #101010;
 }
 
 a:visited{
